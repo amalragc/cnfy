@@ -4,6 +4,9 @@
 
 We introduce "ClassNotesForYou" - a revolutionary free software project focused on liberating educational resources. "ClassNotesForYou" is grounded in the belief that knowledge should be freely accessible to all, providing educational materials without restrictions. This project seeks to uphold the ideals of free software, offering an open platform for collaboration and learning.
 
+This is the second iteration of this project.
+The first version of classnotesforyou can be found at: [Link](http://classnotesforyou.in/)*
+
 ## Project Goals
 
 1. **Free as in Freedom**: Embrace the principles of the Free Software Foundation, ensuring that users have the liberty to use, study, modify, and share the software and educational content.
