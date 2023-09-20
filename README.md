@@ -39,11 +39,11 @@ The first version of ClassNotesForYou can be found at: [classnotesforyou.in](htt
 
 - **File Creation**: Automate the process of creating HTML files for notes, ensuring standardized naming conventions and proper organization. Notes will be stored in separate folders structured by branch, semester, and module.
 
-    - Example Path: `content/notes/cse/sem_1/mod_1/topic_name.html`
+  - Example Path: `content/notes/cse/sem_1/mod_1/topic_name.html`
 
 - **Database**: Implement a separate CSV file to store metadata for each note. The database will facilitate efficient topic-wise search.
 
-    - Fields: branch, sem, subject, topic, file_path
+  - Fields: branch, sem, subject, topic, file_path
 
 ### Phase 4: Community Engagement
 
@@ -75,15 +75,9 @@ Let's bridge the knowledge gap together, one note at a time.
 
 ---
 
-*For inquiries, collaboration, and contributions, please visit our GitHub repository and GitHub Page.*
-*GitHub Repository: [Link](https://github.com/yourrepository)*
-*GitHub Page: [Link](https://yourgithubpage.com)*
-
-
-
-
-
-
+_For inquiries, collaboration, and contributions, please visit our GitHub repository and GitHub Page._
+_GitHub Repository: [Link](https://github.com/yourrepository)_
+_GitHub Page: [Link](https://yourgithubpage.com)_
 
 # Contributor's Guide: Creating Notes for ClassNotesForYou
 
@@ -159,4 +153,4 @@ Your contributions will help make education more accessible and contribute to th
 
 ---
 
-*For inquiries, collaboration, and contributions, please visit our GitHub repository: [ClassNotesForYou Repository](https://github.com/yourrepository)*
+_For inquiries, collaboration, and contributions, please visit our GitHub repository: [ClassNotesForYou Repository](https://github.com/yourrepository)_
