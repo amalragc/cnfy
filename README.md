@@ -39,7 +39,7 @@ The first version of ClassNotesForYou can be found at: [classnotesforyou.in](htt
 
 - **File Creation**: Automate the process of creating HTML files for notes, ensuring standardized naming conventions and proper organization. Notes will be stored in separate folders structured by branch, semester, and module.
 
-  - Example Path: `content/notes/cse/sem_1/mod_1/topic_name.html`
+  - Example Path: `content/engineering/notes/cse/sem_1/mod_1/topic_name.html`
 
 - **Database**: Implement a separate CSV file to store metadata for each note. The database will facilitate efficient topic-wise search.
 
